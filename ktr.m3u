@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="FOX" group-title="Türkiye",FOX
+https://tgn.bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8?nimblesessionid=1442147807&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6MTQ6NDAgQU0maGFzaF92YWx1ZT1sUHMyS2ErdU1waThBeTlwZmFxdUlRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjM=
+
+#EXTINF:-1 tvg-name="TRT 1" group-title="Türkiye",TRT 1
+https://tgn.bozztv.com/gin-dvrfl05/gin-trt1tv/tracks-v1a1/mono.m3u8?nimblesessionid=1442150908&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6MTc6MDkgQU0maGFzaF92YWx1ZT13bDYveDh1NEN6QjQ0a2QvT2huSUR3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+
+#EXTINF:-1 tvg-name="SHOW TV" group-title="Türkiye",SHOW TV
+https://tgn.bozztv.com/gin-trn09/gin-showtv/tracks-v1a1/mono.m3u8?nimblesessionid=1442154885&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6MjA6MjQgQU0maGFzaF92YWx1ZT1ZVmJBakdUY2NUVTE5bW1IdGpRck53PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjA=
+
+#EXTINF:-1 tvg-name="ATV" group-title="Türkiye",ATV
+https://tgn.bozztv.com/gin-trn09/gin-atv-tv/tracks-v1a1/mono.m3u8?nimblesessionid=1442152447&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6MTg6MjkgQU0maGFzaF92YWx1ZT0raG5KdXRRbFptZ0M4QXhBcDNpemxBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjA=
+
+#EXTINF:-1 tvg-name="STAR TV" group-title="Türkiye",STAR TV
+https://tgn.bozztv.com/gin-trn09/gin-startv/tracks-v1a1/mono.m3u8?nimblesessionid=1442152999&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTE6MTg6NTYgQU0maGFzaF92YWx1ZT1PZnB6a0xBQ2E0alRmMmN1TWN2UGZnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjA=
+
+#EXTINF:-1 tvg-name="STER TV" group-title="Türkiye",STER TV
+https://zindi.sterk.tv/live/sterk.m3u8?hls_ctx=13hv4013
+
+#EXTINF:-1 tvg-name="RUDAW TV" group-title="Haber",RUDAW TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
